@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-midterm-project-yosefthguaca",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/GHFeLCeR)\r # NodeJS - Midterm Project",
+  "main": "index.js",
+  "type" :"module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "docker-compose": "^0.24.3",
+    "dotenv": "^16.4.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "express-myconnection": "^1.0.4",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "react-router-dom": "^6.21.3",
+    "up": "^1.0.2",
+    "zod": "^3.22.4"
+  }
+}
