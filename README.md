@@ -1,17 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/GHFeLCeR)
-# NodeJS - Midterm Project
+# NodeJS - Project
 
 **Goal:** Create a site with BREAD (Browse, Read, Edit, Add, Delete) functionality using NodeJS and Express as backend.
-
-## Instructions
-
-- You are free to create any type of site as long as it has CRUD/BREAD functionality and using MVC pattern
-- Keep the database in-memory or inside a *Model* (No external database)
-- You can use and modify a past project
-- The site must have login and signup
-- Use *bcrypt* to hash and verify the password [https://www.npmjs.com/package/bcrypt]
-- Use cookies to keep user information in the browser after they login. Clear the cookies when they log out
-- You can choose to build your frontend/view using EJS, React, or Next.js
 
 ## Sample routes and requests for BREAD
 
@@ -21,10 +10,7 @@
 - **Add:** POST /posts
 - **Delete:** DELETE /posts/1
 
-## Presentation
-
-Individual presentation will be on January 22, 2024. During the presentation of your website, please follow this flow:
-
+## Functional routes
 1. Signup
 2. Login
 3. Add an item
