@@ -19,3 +19,6 @@
 6. Edit item
 7. Delete item
 8. Log out
+## Set-up
+1)create a env. file
+2)connect a MongoDB Database with 4000 localhost to have the access 
